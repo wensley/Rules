@@ -1,4 +1,5 @@
 # CUSTOM DIRECT RULE
+DOMAIN-SUFFIX,tvtime.com
 DOMAIN-SUFFIX,subweb.oss-cn-hongkong.aliyuncs.com
 DOMAIN-SUFFIX,aliyuncs.com 
 DOMAIN-SUFFIX,cloudflareinsights.com 
@@ -212,6 +213,20 @@ DOMAIN-SUFFIX,amp-api.apps.apple.com
 DOMAIN-SUFFIX,xp.apple.com 
 DOMAIN-SUFFIX,p25-buy.itunes.apple.com 
 
+# APPLE
+DOMAIN-KEYWORD,apple-support.akadns.net
+DOMAIN-KEYWORD,apple.com.akadns.net
+DOMAIN-KEYWORD,apple.com.edgekey.net
+DOMAIN-KEYWORD,buy.itunes.apple.com
+DOMAIN-KEYWORD,smp-device
+DOMAIN-KEYWORD,testflight
+DOMAIN-KEYWORD,icloud.com.akadns.net
+USER-AGENT,*FindMyiPhone?
+USER-AGENT,FindMyFriends*
+USER-AGENT,FindMyiPhone*
+DOMAIN,apps.apple.com
+DOMAIN,itunes.apple.com
+
 # DOMAIN
 DOMAIN,meituan.com 
 DOMAIN-SUFFIX,apple.news 
@@ -257,7 +272,16 @@ USER-AGENT,MicroMessenger*,DIRECT
 USER-AGENT,com.apple.appstored*,DIRECT
 USER-AGENT,AppStore*,DIRECT
 
-
+IP-CIDR,139.178.128.0/18,no-resolve
+IP-CIDR,144.178.0.0/19,no-resolve
+IP-CIDR,144.178.36.0/22,no-resolve
+IP-CIDR,144.178.48.0/20,no-resolve
+IP-CIDR,17.0.0.0/8,no-resolve
+IP-CIDR,192.35.50.0/24,no-resolve
+IP-CIDR,198.183.17.0/24,no-resolve
+IP-CIDR,205.180.175.0/24,no-resolve
+IP-CIDR,63.92.224.0/19,no-resolve
+IP-CIDR,65.199.22.0/23,no-resolve
 
 
 
