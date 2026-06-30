@@ -1,4 +1,20 @@
 # CUSTOM DIRECT RULE
+DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,gtimg.com
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,branch.io
+DOMAIN-SUFFIX,sgshort.wechat.com
+DOMAIN-SUFFIX,sgminorshort.wechat.com
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,p3-ecom-commentpic-sign.byteimg.com
+DOMAIN-SUFFIX,p3-product-comment-sign.byteimg.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,p3-liveact.byteimg.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,ys7.com
 DOMAIN-SUFFIX,walletteam.org
 DOMAIN-SUFFIX,walletbot.me
