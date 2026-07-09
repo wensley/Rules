@@ -295,6 +295,7 @@ USER-AGENT,MicroMessenger*,DIRECT
 USER-AGENT,com.apple.appstored*,DIRECT
 USER-AGENT,AppStore*,DIRECT
 
+IP-CIDR,100.64.0.0/8,DIRECT
 IP-CIDR,139.178.128.0/18,no-resolve
 IP-CIDR,144.178.0.0/19,no-resolve
 IP-CIDR,144.178.36.0/22,no-resolve
