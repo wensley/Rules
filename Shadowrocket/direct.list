@@ -1,4 +1,7 @@
 # CUSTOM DIRECT RULE
+DOMAIN-SUFFIX,fpinit.itunes.apple.com
+DOMAIN-SUFFIX,tailscale.net
+DOMAIN-SUFFIX,ts.net
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,gtimg.com
