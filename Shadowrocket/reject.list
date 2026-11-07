@@ -1,4 +1,9 @@
 [Rule]
+DOMAIN-WILDCARD,*pcdn*.biliapi.net
+DOMAIN-SUFFIX,http://mcdn.bilivideo.cn
+DOMAIN-SUFFIX,http://mcdn.bilivideo.com
+DOMAIN-SUFFIX,http://szbdyd.com
+DOMAIN-SUFFIX,http://mountaintoys.cn
 DOMAIN-SET,https://anti-ad.net/surge2.txt
 DOMAIN-SUFFIX,wxlivecdn.com
 DOMAIN-SUFFIX,mlvbdc.live.tlivesource.com
