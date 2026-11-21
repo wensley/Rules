@@ -984,7 +984,6 @@ DOMAIN-SUFFIX,xp.apple.com
 # DOMAIN
 DOMAIN,np-edge.itunes.apple.com 
 DOMAIN,play-edge.itunes.apple.com 
-DOMAIN,testflight.apple.com 
 DOMAIN-SUFFIX,appsto.re 
 DOMAIN,books.itunes.apple.com 
 DOMAIN,hls.itunes.apple.com 
